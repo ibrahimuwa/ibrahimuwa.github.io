@@ -19,12 +19,12 @@ description: Academic CV of Dr. Muhammad Ibrahim — research scientist, adjunct
 
 ## Current appointments
 
-- **Research Scientist** — Department of Primary Industries and Regional Development (DPIRD), Western Australia. *June 2024 – present.*
+- **Research Scientist** — Department of Primary Industries and Regional Development (DPIRD), Western Australia. *Sept 2023 – present.*
 - **Adjunct Research Fellow** — School of Physics, Mathematics and Computing, **The University of Western Australia**. *June 2024 – May 2027.*
+- **Research Assistant (Casual)** — AI &amp; Robotics, **University of Canberra**. *Oct 2025 – present.*
 
 ## Previous appointments
 
-- **Research Scientist (APPN node)**, DPIRD Northam — Sept 2023 to June 2024.
 - **Research Assistant &amp; Doctorate Researcher**, Computer Science &amp; Software Engineering, UWA — Aug 2019 to Dec 2023.
 - **Data Scientist (DARPA project, joint with University of Central Florida)**, UWA — Oct 2020 to Mar 2022.
 - **Teaching Assistant**, UWA — 2 years during PhD (Graphics &amp; Animation; Software Engineering with Java).
@@ -36,7 +36,7 @@ description: Academic CV of Dr. Muhammad Ibrahim — research scientist, adjunct
 - **ML / DL**: PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV, Hugging Face.
 - **3D / Geo**: CloudCompare, MeshLab, LAStools, Ouster Studio, ROS, QGIS, Metashape Pro, DJI Terra, WebODM, Google Earth Engine.
 - **Cloud / HPC**: Pawsey Setonix supercomputer, Pawsey Acacia object storage, Pawsey Nebula, Microsoft Azure, AWS.
-- **Sensors**: Ouster LiDAR (16/64 ch), Honeywell IMU, GNSS, Phase-One RGB, hyperspectral, multispectral, thermal cameras, IoT field sensors, FPGA / DSP kits.
+- **Sensors**: Ouster LiDAR (16/64 ch), Honeywell IMU, GNSS, Phase-One RGB, hyperspectral (Headwall), multispectral, thermal cameras, IoT field sensors, FPGA / DSP kits.
 - **Tooling**: Git/GitHub, Linux/Bash, LaTeX, Docker.
 
 ## Citations &amp; impact
@@ -46,8 +46,10 @@ A continuously updated list of publications, citations and h-index is on my **[G
 ## References
 
 1. **Prof. Ajmal Mian** — School of Computer Science and Software Engineering, UWA. <a href="mailto:ajmal.mian@uwa.edu.au">ajmal.mian@uwa.edu.au</a>. *(PhD Principal Supervisor)*
-2. **Dr. Naveed Akhtar** — Senior Lecturer / DECRA Research Fellow, School of Computing &amp; Information Systems, University of Melbourne. <a href="mailto:naveed.akhtar1@unimelb.edu.au">naveed.akhtar1@unimelb.edu.au</a>. *(PhD Co-Supervisor)*
-3. **Assoc. Prof. Michael Wise** — School of Computer Science and Software Engineering, UWA. <a href="mailto:michael.wise@uwa.edu.au">michael.wise@uwa.edu.au</a>. *(PhD Co-Supervisor)*
+2. **Assoc. Prof. Michael Wise** — School of Computer Science and Software Engineering, UWA. <a href="mailto:michael.wise@uwa.edu.au">michael.wise@uwa.edu.au</a>. *(PhD Co-Supervisor)*
+3. **Dr. Hafeez Ur Rehman** — Dean, College of Computing and Data Science, OU with Liverpool John Moores University, Doha, Qatar. <a href="mailto:hafeezugmail.com">hafeezugmail.com</a>. *(Academic Reference)*
+4. **Dr. Ibrahim Radwan** — Associate Professor, Faculty of Science and Technology, University of Canberra, ACT, Australia. <a href="mailto:ibrahim.radwan@canberra.edu.au">ibrahim.radwan@canberra.edu.au</a>. *(Research Collaborator)*
+5. **Dr. Naveed Akhtar** — Senior Lecturer / DECRA Research Fellow, School of Computing &amp; Information Systems, University of Melbourne. <a href="mailto:naveed.akhtar1@unimelb.edu.au">naveed.akhtar1@unimelb.edu.au</a>. *(PhD Co-Supervisor)*
 
 ---
 
