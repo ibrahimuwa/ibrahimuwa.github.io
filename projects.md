@@ -7,11 +7,11 @@ description: Active research projects, grants, datasets and tools developed by D
 
 # Projects &amp; Funding
 
-I lead and contribute to a portfolio of multimodal AI projects spanning **autonomous systems, smart cities, plant phenomics and decision-support tools**. Below are the most active projects and the funded compute / research grants behind them.
+I lead and contribute to a portfolio of computer science projects in remote sensing, robotics, high-performance computing, big data processing, cloud computing, 3D vision, and multimodal data, spanning autonomous systems, smart cities, plant phenomics, and decision-support tools. Below are the most active projects and the funded compute and research grants behind them.
 
 ## Active research projects
 
-### Agri-analytics Hub — Food Agility CRC (June 2024 – present)
+### Agri-analytics Hub — Food Agility CRC (June 2024 – June 2025)
 
 A multi-institutional digital decision-support platform integrating **satellite, soil, weather and yield datasets** across **~450,000 paddocks** in Western Australia. Partners: **DPIRD, Curtin University CCSDM, NGIS**.
 
@@ -38,7 +38,7 @@ Working with **Prof. Ajmal Mian** and international partners (University of Jedd
 
 ### Root Phenotyping (July 2025 – present)
 
-Foundation-model-based deep learning to predict **volumetric soil water content** from imagery, replacing manual sampling and enabling scalable, repeatable field measurement.
+Foundation-model-based deep learning to predict **volumetric water content** at various depths of soil using Dualm Electromagnetic sensor data, replacing manual sampling and enabling scalable, repeatable field measurement.
 
 ### Legacy Data Governance &amp; Analytics — DPIRD (Nov 2025 – present)
 
@@ -108,10 +108,16 @@ With **Dr. Khyber Alam, Prof. Fred K. Chen** (UWA Optometry / Lions Eye Institut
     <h3>WA Drone-LiDAR Phenotyping App</h3>
     <p>Python application that extracts individual field plots from 3D LiDAR maps and computes plant height, biomass and volume — replacing manual measurement.</p>
   </div>
+  <div class="card">
+    <h3>Mobile App for Video labeling</h3>
+    <p>Developed a mobile application, initially tested on a Samsung Galaxy S25 Android phone, to annotate objects in video for object detection and tracking.</p>
+  </div>
 </div>
 
 ## Awards &amp; recognition (selected)
 
+- **Winner of Merit Award, INCITE Awards (Research &amp; Innovation)** — WAITTA, Perth, 2023.
+- **Finalist, National iAwards 2023 in Innovation category**, Adelaide, South Australia, 2023
 - **Finalist, 31st INCITE Awards (Research &amp; Innovation)** — WAITTA, Perth, 2022.
 - **Best Paper Runner-Up — Deep Learning for Earth Observation &amp; Remote Sensing**, DICTA 2021.
 - **UWA Convocation Postgraduate Research Travel Award** ($3,000), 2022.
@@ -123,7 +129,7 @@ With **Dr. Khyber Alam, Prof. Fred K. Chen** (UWA Optometry / Lions Eye Institut
 
 ## Service to the discipline
 
-- Reviewer for *IEEE T-ITS*, *Remote Sensing*, *IEEE Access*, ICRA, IROS, IGARSS, DICTA.
+- Reviewer for *IEEE T-ITS*, *Remote Sensing*, *IEEE Access*, PAMI, ICRA, IROS, IGARSS, DICTA.
 - Volunteer, **Women in Data Science (WiDS)** Perth, 2023.
 - Active member of the **Australian Plant Phenomics Network** community.
 - Adjunct supervisor for HDR students at UWA.
