@@ -1,0 +1,39 @@
+title: "Dr. Muhammad Ibrahim"
+tagline: "Research Scientist · Adjunct Research Fellow, UWA"
+description: >-
+  Academic and research portfolio of Dr. Muhammad Ibrahim — High Performance
+  Computing, Remote Sensing, Robotics, Big Data, LiDAR & Hyperspectral data
+  analysis, Multimodal Deep Learning, and Large Language Models.
+author: "Muhammad Ibrahim"
+email: ibrahim80876@gmail.com
+url: "https://IbrahimUWA.github.io"
+baseurl: ""
+
+# Social / academic profiles
+github_username: IbrahimUWA
+linkedin_username: muhammad-ibrahim-83643b1a2
+google_scholar: "https://scholar.google.com/citations?user=T_JUvg0AAAAJ&hl=en"
+orcid: ""
+
+# Build
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Excludes
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .gitignore
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
