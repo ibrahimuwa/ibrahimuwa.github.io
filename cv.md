@@ -47,7 +47,7 @@ A continuously updated list of publications, citations and h-index is on my **[G
 
 1. **Prof. Ajmal Mian** — School of Computer Science and Software Engineering, UWA. <a href="mailto:ajmal.mian@uwa.edu.au">ajmal.mian@uwa.edu.au</a>. *(PhD Principal Supervisor)*
 2. **Assoc. Prof. Michael Wise** — School of Computer Science and Software Engineering, UWA. <a href="mailto:michael.wise@uwa.edu.au">michael.wise@uwa.edu.au</a>. *(PhD Co-Supervisor)*
-3. **Dr. Hafeez Ur Rehman** — Dean, College of Computing and Data Science, OU with Liverpool John Moores University, Doha, Qatar. <a href="mailto:hafeezu@gmail.com">hafeezu@gmail.com</a>. *(Academic Reference)*
+3. **Dr. Hafeez Ur Rehman** — Dean, College of Computing and Data Science, OU with Liverpool John Moores University, Doha, Qatar. <a href="mailto:H.UrRehman@ljmu.ac.uk">H.UrRehman@ljmu.ac.uk</a>. *(Academic Reference)*
 4. **Dr. Ibrahim Radwan** — Associate Professor, Faculty of Science and Technology, University of Canberra, ACT, Australia. <a href="mailto:ibrahim.radwan@canberra.edu.au">ibrahim.radwan@canberra.edu.au</a>. *(Research Collaborator)*
 5. **Dr. Naveed Akhtar** — Senior Lecturer / DECRA Research Fellow, School of Computing &amp; Information Systems, University of Melbourne. <a href="mailto:naveed.akhtar1@unimelb.edu.au">naveed.akhtar1@unimelb.edu.au</a>. *(PhD Co-Supervisor)*
 
