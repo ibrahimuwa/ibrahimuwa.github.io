@@ -23,7 +23,7 @@ description: Dr. Muhammad Ibrahim — Research Scientist and Adjunct Research Fe
 
 ## Biography
 
-I am a Research Scientist at **DPIRD (Government of Western Australia)** and an **Adjunct Research Fellow at The University of Western Australia (UWA)**. My research sits at the intersection of **High Performance Computing, Remote Sensing, Robotics, and Multimodal Deep Learning**. I design GPU-accelerated and parallel algorithms that turn very large multimodal datasets — **LiDAR**, **Hyperspectral**, **multispectral**, **thermal**, **IoT** sensor streams, and **satellite** imagery — into actionable scientific knowledge for **autonomous systems, smart cities, and precision agriculture**.
+I am a Research Scientist at **DPIRD (Government of Western Australia)** and an **Adjunct Research Fellow at The University of Western Australia (UWA)**. My research sits at the intersection of **High Performance Computing, Remote Sensing, Robotics, and Multimodal Deep Learning**. I design GPU-accelerated and parallel algorithms that turn very large multimodal datasets, including **LiDAR**, **Hyperspectral**, **multispectral**, **thermal**, **IoT** sensor streams, and **satellite** imagery, into actionable scientific knowledge for **autonomous systems, smart cities, and precision agriculture**.
 
 My PhD (UWA, 2019–2023, supervised by Prof. Ajmal Mian) focused on **3D scene understanding from LiDAR point clouds**, producing benchmark datasets (PC-Urban, SWAN, Perth-WA) and state-of-the-art transformer-based segmentation, localization and detection methods published in *IEEE TITS, ICRA, IROS, IGARSS,* and *Remote Sensing*. Today I extend this work to **city-scale 3D mapping, change detection, and crop phenomics**, while introducing **Mamba state-space models, hypergraph learning, and CUDA/OpenCL parallelism** to point cloud processing.
 
@@ -85,4 +85,4 @@ I am committed to translating my research into impact: I have delivered AI-drive
 
 ## Get in touch
 
-I welcome collaborations on **3D vision, LiDAR / Hyperspectral analytics, HPC, and AI for science**, and I am actively recruiting motivated **HDR (Honours / Masters / PhD) students**. The fastest way to reach me is by [email](mailto:ibrahim80876@gmail.com).
+I welcome collaborations on **3D vision, LiDAR / Hyperspectral analytics, HPC, and AI for science**. The fastest way to reach me is by [email](mailto:ibrahim80876@gmail.com).
