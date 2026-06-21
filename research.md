@@ -13,7 +13,7 @@ My research programme combines **algorithmic innovation** in deep learning and p
 
 Modern 3D and remote-sensing pipelines are bottlenecked by data volume, not algorithm complexity. I design **GPU-accelerated, parallel algorithms** that close this gap.
 
-- **CUDA / OpenCL parallel cylindrical scanning** for 3D LiDAR point clouds (CylinMamba3D, ECCV 2026 submission) — geometry-aware state-space modelling with end-to-end GPU pipelines.
+- **CUDA / OpenCL parallel cylindrical scanning** for 3D LiDAR point clouds (CylinMamba3D, manuscript in preparation) — geometry-aware state-space modelling with end-to-end GPU pipelines.
 - **Pawsey Setonix supercomputing** workflows for terabyte-scale UAV LiDAR and multispectral processing using Dask, Spark and SLURM.
 - **Distributed analytics on Azure and AWS** for multimodal precision agriculture data integrating multispectral, weather, soil and yield datasets.
 - Earlier work on **FPGA and GPU implementations of Fast Fourier Transform** (ICE Cube, 2016) and HPC laboratory infrastructure design at FAST-NUCES, Pakistan.
@@ -38,7 +38,7 @@ I lead the design of **AI-driven decision-support systems** that integrate satel
 ## Theme 4 — Multimodal Robotics, Autonomy and Smart Cities
 
 - **3D city mapping with sensor fusion** of LiDAR + GNSS + IMU using Dynamic Time Warping for fine alignment (*IEEE JSTARS* 2026).
-- **City-scale 3D change detection** (*Scientific Reports* 2026) for urban planning and infrastructure monitoring.
+- **City-scale 3D change detection** (*Scientific Reports*, submitted) for urban planning and infrastructure monitoring.
 - **Object detection for autonomous driving** via multistream LiDAR + camera fusion (IROS 2025).
 
 ## Theme 5 — LLMs, Prompt Engineering &amp; AI for Science

@@ -21,6 +21,26 @@ description: Dr. Muhammad Ibrahim — Research Scientist and Adjunct Research Fe
   </div>
 </section>
 
+<div class="ticker" role="region" aria-label="Latest research news">
+  <span class="ticker-label"><span class="dot"></span>Latest</span>
+  <div class="ticker-viewport">
+    <div class="ticker-track">
+      <span class="item"><span class="badge hot">New</span><b>GridFlow accepted at ECCV 2026</b> — structured latent flow for seamless city-scale 3D point cloud generation (top-tier computer vision venue).</span>
+      <span class="sep">◆</span>
+      <span class="item"><span class="badge">Accepted</span><b>IEEE JSTARS</b> — Geo-Registration of terrestrial LiDAR point clouds with satellite imagery without GNSS.</span>
+      <span class="sep">◆</span>
+      <span class="item"><span class="badge">Published</span><b>IEEE JSTARS</b> — Dynamic Hypergraph-guided Mamba for TLS point cloud foliage separation.</span>
+      <span class="sep">◆</span>
+      <span class="item"><span class="badge">Accepted</span><b>IEEE JSTARS</b> — LiDAR, GNSS &amp; IMU fine alignment via Dynamic Time Warping for 3D city maps.</span>
+      <span class="sep">◆</span>
+      <span class="item"><span class="badge">Under review</span><b>IEEE TGRS</b> — Hierarchical multi-scale Transformer&ndash;Mamba crop-yield model for ~450,000 WA paddocks.</span>
+      <span class="sep">◆</span>
+      <span class="item"><span class="badge">Grant</span><b>2&times; Pawsey allocations</b> &amp; a 200,000 SAR University of Jeddah research grant.</span>
+      <span class="sep">◆</span>
+    </div>
+  </div>
+</div>
+
 ## Biography
 
 I am a Research Scientist at **DPIRD (Government of Western Australia)** and an **Adjunct Research Fellow at The University of Western Australia (UWA)**. My research sits at the intersection of **High Performance Computing, Remote Sensing, Robotics, and Multimodal Deep Learning**. I design GPU-accelerated and parallel algorithms that turn very large multimodal datasets, including **LiDAR**, **Hyperspectral**, **multispectral**, **thermal**, **IoT** sensor streams, and **satellite** imagery, into actionable scientific knowledge for **autonomous systems, smart cities, and precision agriculture**.
@@ -30,7 +50,7 @@ My PhD (UWA, 2019–2023, supervised by Prof. Ajmal Mian) focused on **3D scene 
 I am committed to translating my research into impact: I have delivered AI-driven decision-support systems to government and industry, developed open datasets and tools used by the international research community, and supervised HDR students in collaboration with UWA, Curtin University, and the University of Jeddah. I am a strong believer in **research-led teaching** and am keen to bring this expertise to the undergraduate and postgraduate curriculum at UWA.
 
 <div class="callout">
-  <strong>Recent highlight</strong> — Two 2026 first-author/co-author papers accepted at <em>IEEE JSTARS</em> (IF 5.3) on multimodal LiDAR-GNSS-IMU 3D city mapping and Mamba-based foliage separation; submissions under review at <em>ECCV 2026</em> and <em>NeurIPS 2026</em> on geometry-aware cylindrical state-space models and city-scale 3D point cloud generation.
+  <strong>Recent highlight</strong> — <em>GridFlow</em>, our work on structured latent flow for seamless city-scale 3D point cloud generation, has been <strong>accepted at ECCV 2026</strong>, one of the top-tier computer vision conferences. This adds to three 2026 papers accepted/published at <em>IEEE JSTARS</em> (IF 5.3) on multimodal LiDAR-GNSS-IMU 3D city mapping, GNSS-free geo-registration, and Mamba-based foliage separation, with further manuscripts under review at <em>IEEE TGRS</em>, <em>IEEE TIP</em> and <em>IEEE TCSVT</em>.
 </div>
 
 ## Research Interests
@@ -72,11 +92,15 @@ I am committed to translating my research into impact: I have delivered AI-drive
 
 ## News
 
+- **2026** — 🎉 *GridFlow* **accepted at ECCV 2026** (top-tier computer vision): "Structured Latent Flow for Seamless City-Scale 3D Point Cloud Generation."
+- **2026** — Paper accepted at *IEEE JSTARS* (IF 5.3): "Geo-Registration of Terrestrial LiDAR Point Clouds with Satellite Images without GNSS."
 - **2026** — Paper accepted at *IEEE JSTARS* (IF 5.3): "LiDAR, GNSS and IMU Sensor Fine Alignment through Dynamic Time Warping to Construct 3D City Maps."
-- **2026** — Paper accepted at *IEEE JSTARS* (IF 5.3): "Dynamic Hypergraph-guided Mamba for TLS Point Cloud Foliage Separation."
-- **2026** — *CylinMamba3D* submitted to **ECCV 2026**: a CUDA / OpenCL GPU-parallel cylindrical state-space model for 3D point clouds.
-- **2026** — *GridFlow* submitted to **NeurIPS 2026** on city-scale structured latent flow for 3D point cloud generation.
-- **2026** — Paper accepted at *Scientific Reports*: "LiDAR-based 3D Change Detection at City Scale."
+- **2026** — Paper published in *IEEE JSTARS* (IF 5.3): "Dynamic Hypergraph-guided Mamba for TLS Point Cloud Foliage Separation" — [code](https://github.com/ZhangIceNight/foliage_segmentation).
+- **2026** — Manuscript submitted to *IEEE TGRS*: "A Hierarchical Multi-Scale Hybrid Transformer–Mamba Model for Crop-Yield Prediction in Western Australia" (~450,000 paddocks).
+- **2026** — Manuscript submitted to *IEEE TIP*: "Identity Prototype Diffusion Distillation with Context Modulation for Unsupervised Person Re-Identification."
+- **2026** — Manuscript submitted to *IEEE TCSVT*: "Evidence-Grounded Progressive Chain-of-Thought Reasoning for Multi-modal Object Re-Identification."
+- **2026** — Manuscript submitted to *Scientific Reports*: "LiDAR-based 3D Change Detection at City Scale."
+- **2026** — *CylinMamba3D* — a CUDA / OpenCL GPU-parallel cylindrical state-space model for 3D point clouds — manuscript in preparation.
 - **2026** — Paper published in *Remote Sensing*: "BAWSeg: A UAV Multispectral Benchmark for Barley Weed Segmentation."
 - **2025** — Two Pawsey Supercomputing Centre allocations granted for APPN crop phenotyping (30 TB Acacia storage + Nebula remote visualisation), saving ~A$150k vs. commercial cloud.
 - **2025** — Awarded a **200,000 SAR research grant** from the University of Jeddah (UJ-24-SUTU-1290) for "3D Scene Understanding using LiDAR Sensor."

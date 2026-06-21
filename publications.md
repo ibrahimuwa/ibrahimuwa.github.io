@@ -15,6 +15,17 @@ A complete and continuously updated list is available on my **[Google Scholar pr
 
 <ul class="pub-list">
   <li>
+    <span class="tag">Conference</span> <span class="tag green">ECCV 2026</span>
+    "<strong>GridFlow: Structured Latent Flow for Seamless City-Scale 3D Point Cloud Generation.</strong>"
+    <span class="venue">European Conference on Computer Vision (ECCV) 2026</span> <span class="year">2026</span>. <em>Accepted at a top-tier computer vision venue.</em>
+  </li>
+  <li>
+    <span class="tag">Journal</span> <span class="tag gold">IF 5.3</span>
+    Wang, X., <strong>Ibrahim, M.</strong>, Wang, H., Mansoor, A., Jia, X., Mian, A.
+    "<strong>Geo-Registration of Terrestrial LiDAR Point Clouds with Satellite Images without GNSS.</strong>"
+    <span class="venue">IEEE JSTARS</span> <span class="year">2026</span>. <em>(Second author.)</em>
+  </li>
+  <li>
     <span class="tag">Journal</span> <span class="tag gold">IF 5.3</span>
     Wang, H., Albaqami, H., Wang, X., <strong>Ibrahim, M.</strong>, Malakan, Z. M., Algamdi, A. M., Alghamdi, M. H., Mian, A.
     "<strong>LiDAR, GNSS and IMU Sensor Fine Alignment through Dynamic Time Warping to Construct 3D City Maps.</strong>"
@@ -22,15 +33,11 @@ A complete and continuously updated list is available on my **[Google Scholar pr
   </li>
   <li>
     <span class="tag">Journal</span> <span class="tag gold">IF 5.3</span>
-    Jing, W., Zhang, W., Di, D., Mian, A., <strong>Ibrahim, M.</strong>, Li, C.
+    Jing, W., Zhang, W., Zhang, X., Di, D., Mian, A., <strong>Ibrahim, M.</strong>, Li, C.
     "<strong>Dynamic Hypergraph-guided Mamba for TLS Point Cloud Foliage Separation.</strong>"
     <span class="venue">IEEE JSTARS</span> <span class="year">2026</span>.
-  </li>
-  <li>
-    <span class="tag">Journal</span>
-    Albaqami, H., Wang, H., Wang, X., <strong>Ibrahim, M.</strong>, Malakan, Z. M., Algamdi, A. M., Alghamdi, M. H., Mian, A.
-    "<strong>LiDAR-based 3D Change Detection at City Scale.</strong>"
-    <span class="venue">Scientific Reports (Nature Portfolio)</span> <span class="year">27 March 2026</span>.
+    <a href="https://doi.org/10.1109/JSTARS.2026.3696349" target="_blank" rel="noopener">DOI</a> ·
+    <a href="https://github.com/ZhangIceNight/foliage_segmentation" target="_blank" rel="noopener">Code</a>
   </li>
   <li>
     <span class="tag">Journal</span>
@@ -53,18 +60,40 @@ A complete and continuously updated list is available on my **[Google Scholar pr
   </li>
 </ul>
 
-## Under Review (2026)
+## Under Review &amp; In Preparation (2026)
 
 <ul class="pub-list">
   <li>
-    <span class="tag">Conference</span>
-    "<strong>CylinMamba3D: Geometry-Aware Cylindrical State Space Modeling for 3D Point Clouds.</strong>"
-    <span class="venue">ECCV 2026</span> (Submission #12135). <em>GPU-parallel CUDA / OpenCL implementation.</em>
+    <span class="tag">Journal</span>
+    <strong>Ibrahim, M.</strong>, Singh, B., Pires, R., Easton, J., Tareque, H.
+    "<strong>A Hierarchical Multi-Scale Hybrid Transformer–Mamba Model for Crop-Yield Prediction in Western Australia.</strong>"
+    <span class="venue">IEEE Transactions on Geoscience and Remote Sensing (TGRS)</span>. <em>Under review (first author).</em>
+    <a href="https://github.com/IbrahimUWA/Hierarchical-MultiScale-Crop-Yield-WA" target="_blank" rel="noopener">Code</a>
   </li>
   <li>
-    <span class="tag">Conference</span>
-    "<strong>GridFlow: Structured Latent Flow for Seamless City-Scale 3D Point Cloud Generation.</strong>"
-    <span class="venue">NeurIPS 2026</span> (Submission #15890).
+    <span class="tag">Journal</span>
+    Tao, X., Kong, J., Jiang, M., <strong>Ibrahim, M.</strong>, Mian, A.
+    "<strong>Identity Prototype Diffusion Distillation with Context Modulation for Unsupervised Person Re-Identification.</strong>"
+    <span class="venue">IEEE Transactions on Image Processing (TIP)</span>. <em>Under review.</em>
+    <a href="https://github.com/taoxuefong/MPDD-reid" target="_blank" rel="noopener">Code</a>
+  </li>
+  <li>
+    <span class="tag">Journal</span>
+    Tao, X., Kong, J., Geng, Z., Jiang, M., <strong>Ibrahim, M.</strong>
+    "<strong>Evidence-Grounded Progressive Chain-of-Thought Reasoning for Multi-modal Object Re-Identification.</strong>"
+    <span class="venue">IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</span>. <em>Under review.</em>
+    <a href="https://github.com/taoxuefong/EP-CoT-reid" target="_blank" rel="noopener">Code</a>
+  </li>
+  <li>
+    <span class="tag">Journal</span>
+    Albaqami, H., Wang, H., Wang, X., <strong>Ibrahim, M.</strong>, Malakan, Z. M., Algamdi, A. M., Alghamdi, M. H., Mian, A.
+    "<strong>LiDAR-based 3D Change Detection at City Scale.</strong>"
+    <span class="venue">Scientific Reports (Nature Portfolio)</span>. <em>Submitted.</em>
+  </li>
+  <li>
+    <span class="tag">Preprint</span>
+    "<strong>CylinMamba3D: Geometry-Aware Cylindrical State Space Modeling for 3D Point Clouds.</strong>"
+    <em>Manuscript in preparation — a CUDA / OpenCL GPU-parallel cylindrical state-space model for 3D point clouds.</em>
   </li>
 </ul>
 
