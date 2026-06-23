@@ -93,9 +93,9 @@ I am committed to translating my research into impact: I have delivered AI-drive
 ## News
 
 - **2026** — 🎉 *GridFlow* **accepted at ECCV 2026** (top-tier computer vision): "Structured Latent Flow for Seamless City-Scale 3D Point Cloud Generation."
-- **2026** — Paper accepted at *IEEE JSTARS* (IF 5.3): "Geo-Registration of Terrestrial LiDAR Point Clouds with Satellite Images without GNSS."
-- **2026** — Paper accepted at *IEEE JSTARS* (IF 5.3): "LiDAR, GNSS and IMU Sensor Fine Alignment through Dynamic Time Warping to Construct 3D City Maps."
-- **2026** — Paper published in *IEEE JSTARS* (IF 5.3): "Dynamic Hypergraph-guided Mamba for TLS Point Cloud Foliage Separation" — [code](https://github.com/ZhangIceNight/foliage_segmentation).
+- **2026** — Paper accepted at *IEEE JSTARS* (IF 6.3): "Geo-Registration of Terrestrial LiDAR Point Clouds with Satellite Images without GNSS."
+- **2026** — Paper accepted at *IEEE JSTARS* (IF 6.3): "LiDAR, GNSS and IMU Sensor Fine Alignment through Dynamic Time Warping to Construct 3D City Maps."
+- **2026** — Paper published in *IEEE JSTARS* (IF 6.3): "Dynamic Hypergraph-guided Mamba for TLS Point Cloud Foliage Separation" — [code](https://github.com/ZhangIceNight/foliage_segmentation).
 - **2026** — Manuscript submitted to *IEEE TGRS*: "A Hierarchical Multi-Scale Hybrid Transformer–Mamba Model for Crop-Yield Prediction in Western Australia" (~450,000 paddocks).
 - **2026** — Manuscript submitted to *IEEE TIP*: "Identity Prototype Diffusion Distillation with Context Modulation for Unsupervised Person Re-Identification."
 - **2026** — Manuscript submitted to *IEEE TCSVT*: "Evidence-Grounded Progressive Chain-of-Thought Reasoning for Multi-modal Object Re-Identification."
